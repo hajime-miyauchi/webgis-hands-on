@@ -12,3 +12,6 @@ Google Maps APIとPostGISを使ってWeb GISを作る演習です。
   * [03 - 属性に応じて大きさを変えてみよう](postgis/03.md)
   * [04 - ポリゴン(多角形)を描いてみよう](postgis/04.md)
   * [05 - 属性に応じて透明度を変えてみよう](postgis/05.md)
+* MySQL
+  * [01 - MySQLから取得した緯度経度に円を描いてみよう](mysql/01.md)
+  * [02 - 表示している範囲の緯度経度のみをMySQLから取得しよう](mysql/02.md)
