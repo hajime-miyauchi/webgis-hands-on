@@ -15,3 +15,6 @@ Google Maps APIとPostGISを使ってWeb GISを作る演習です。
 * MySQL
   * [01 - MySQLから取得した緯度経度に円を描いてみよう](mysql/01.md)
   * [02 - 表示している範囲の緯度経度のみをMySQLから取得しよう](mysql/02.md)
+
+ライセンスはCC-BY 4.0です。
+LICENSEファイルを参照して下さい。
